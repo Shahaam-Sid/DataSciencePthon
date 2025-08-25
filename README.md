@@ -4,7 +4,9 @@
 <br>
 <br>
 ### Excercise 1: Filtering with One Condition
+<br>
 ### Excercise 2: Creating Column with One Condtion
+<br>
 ### Exercise 3: Creating Column with Multiple Condition
 <br>
 <br>
