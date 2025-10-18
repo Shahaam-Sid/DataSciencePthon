@@ -28,6 +28,8 @@ Reference [**Video**](https://youtu.be/yKTEC1Y5bEQ?si=4-h9GgkhArkEKiI_)
 
 ## 3. Numpy
 
+Documentation [**Webpage**](https://numpy.org/doc/stable/user/basics.html)
+
 Reference [**Video**](https://youtu.be/VXU4LSAQDSc?si=sRrpL1FoFMDeScNL)
 
 For [**Practise**](https://www.geeksforgeeks.org/python/python-numpy-practice-exercises-questions-and-solutions/)
